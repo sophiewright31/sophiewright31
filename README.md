@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,php,symfony,python,mysql,postgres,graphql,typescript,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,php,symfony,python,mysql,postgres,graphql,docker)](https://skillicons.dev)
 
 � Alternante chez Yalink (septembre 2021 à aout 2022)
 
